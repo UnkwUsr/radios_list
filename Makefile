@@ -1,2 +1,2 @@
-_all_compiled: *.ini
-	cat $^ > $@
+build: *.ini
+	cat $^ > _all_compiled
