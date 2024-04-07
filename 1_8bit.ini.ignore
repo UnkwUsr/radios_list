@@ -3,10 +3,12 @@
 # 8bit/chip
 Ref=http://relay1.slayradio.org:8300/
 Ref=https://kohina.duckdns.org/icecast/stream.ogg
-Ref=http://8bit.fm:8000/ay
-Ref=http://8bit.fm:8000/main
 Ref=http://streaming.rolandradio.net/rolandradio.64.stereo
 Ref=https://kaaosradio.fi:8001/chip
+
+# seems dead
+# Ref= http://8bit.fm:8000/ay
+# Ref= http://8bit.fm:8000/main
 
 # from https://scenestream.net
 Ref=http://nectarine.bgp.wtf:1337/nectarine
